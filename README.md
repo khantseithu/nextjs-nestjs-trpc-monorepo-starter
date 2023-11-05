@@ -17,5 +17,5 @@ pnpm dev
 
 ## Deployed Links
 
-- [Next.js](https://server-production-76db.up.railway.app/)
-- [Nest.js](https://api-production-a780.up.railway.app/)
+- [Next.js](https://web-production-a780.up.railway.app/)
+- [Nest.js](https://server-production-76db.up.railway.app/)
